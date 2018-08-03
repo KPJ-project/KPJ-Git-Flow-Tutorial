@@ -6,6 +6,7 @@ from my_divide import *
 
 if __name__ == "__main__":
 
+    # release bug fix -- psw
     two_numbers=[int(ele) for ele in input("두개의 수를 입력하세요.\nex)3 4\n").split(" ")]
     num1,num2 = two_numbers
 
